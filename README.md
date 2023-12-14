@@ -1,10 +1,10 @@
 # Twitter Fake Tweet Detection Project
 
 ## Overview
-This GitHub repository contains the code and documentation for a project focused on detecting fake tweets on Twitter. The project involves data preprocessing, exploratory data analysis (EDA), classification using various machine learning techniques, and frequent pattern mining to identify recurring patterns associated with tweet labels.
+This GitHub repository contains the code and documentation for a project focused on detecting fake tweets on Twitter. The project involves data preprocessing, exploratory data analysis (EDA), classification using various machine-learning techniques, and frequent pattern mining to identify recurring patterns associated with tweet labels.
 
 ## Abstract
-The project addresses the challenges of detecting fake tweets on Twitter, utilizing techniques such as logistic regression and neural networks. The research explores user profiles, patterns in tweet data, and employs machine learning models for classification. The use of ensemble modeling and frequent pattern mining enhances the accuracy and insights into the detection process.
+The project addresses the challenges of detecting fake tweets on Twitter, utilizing techniques such as logistic regression and neural networks. The research explores user profiles, and patterns in tweet data, and employs machine learning models for classification. The use of ensemble modeling and frequent pattern mining enhances the accuracy and insights into the detection process.
 
 ## Research Questions
 1. **Are certain user profiles more prevalent in sharing fake tweets?**
@@ -12,7 +12,7 @@ The project addresses the challenges of detecting fake tweets on Twitter, utiliz
 3. **Can we train a model that can detect if the tweet is fake based on its user profile?**
 4. **Are there any frequent patterns that can be undermined from our dataset?**
 
-## Project Parts
+## Project Phases
 1. **Data Preprocessing and EDA**
 Analyzed user profiles and tweets.
 Explored relationships between tweet labels and user attributes (followers, following, etc.).
