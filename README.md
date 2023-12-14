@@ -1,4 +1,4 @@
-# Twitter Fake Tweet Detection Project
+# Twitter Fake Tweet Detection
 
 ## Overview
 This GitHub repository contains the code and documentation for a project focused on detecting fake tweets on Twitter. The project involves data preprocessing, exploratory data analysis (EDA), classification using various machine-learning techniques, and frequent pattern mining to identify recurring patterns associated with tweet labels.
